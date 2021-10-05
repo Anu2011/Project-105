@@ -1,0 +1,18 @@
+body{
+    background-color:cyan;
+    color:darkviolet;
+    }
+    .heading{
+    width: 80%;
+    font-size: 22px;
+    }
+    
+    #camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    }
+    
+    .name_of_familymembers,#result_familymembers_name,#result_familymembers_accuracy{
+    color:mediumvioletred;
+    }
